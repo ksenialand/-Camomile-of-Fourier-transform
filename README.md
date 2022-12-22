@@ -7,4 +7,4 @@
 
 Мы отображаем g(t) на комплексную плоскость. 
 
-![image](https://user-images.githubusercontent.com/90831803/209038983-979f3299-36cc-4a45-ad69-7bc55898f8e4.png)
+![image](https://user-images.githubusercontent.com/90831803/209039417-9630612c-e4ee-49b5-93c9-70a8ac9e5335.png)
