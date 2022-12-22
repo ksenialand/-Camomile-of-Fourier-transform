@@ -4,3 +4,7 @@
 ![image](https://user-images.githubusercontent.com/90831803/209037967-51034870-e6ab-4f3c-aca9-4118efbbe18c.png)
 
 Здесь g(t) – это исходный сигнал. G(f) – изображение по Фурье, а параметром f выступает частота.
+
+Мы отображаем g(t) на комплексную плоскость. 
+
+![image](https://user-images.githubusercontent.com/90831803/209038983-979f3299-36cc-4a45-ad69-7bc55898f8e4.png)
